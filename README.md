@@ -1,2 +1,0 @@
-# SuiseiComet.github.io
-Website
